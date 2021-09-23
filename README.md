@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @v-ismayilov
+- 👀 I’m interested in programming
+- 📖 I'm student of ADA School
+- 🌱 I’m currently learning reactJS
+- 📫 How to reach me [email](mailto:valeh.ismayilov@outlook.com) 
